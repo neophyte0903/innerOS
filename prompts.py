@@ -1,0 +1,36 @@
+
+
+Journal_prompts=[
+    "What’s looping in my head right now?",
+    "What am I mentally tired of today?",
+    "What feels heavier than it should?",
+    "What am I avoiding thinking about?",
+    "What keeps interrupting my focus?",
+    "What would feel like relief right now?",
+    "What’s confusing me the most?",
+    "What decision is quietly waiting?",
+    "What am I overthinking unnecessarily?",
+    "What’s one thing I wish would pause?",
+    "What part of work annoyed me more than expected?",
+    "What boundary did I fail to hold?",
+    "What boundary did I successfully hold?",
+    "What felt unfair today?",
+    "What am I carrying that isn’t mine?",
+    "What small win am I ignoring?",
+    "What mistake am I magnifying?",
+    "What would “enough for today” look like?",
+    "What can wait till tomorrow?",
+    "What’s one thing I can let go of right now?",
+    "What does boredom feel like in my body?",
+    "What happens when I stop reaching for my phone?",
+    "What thoughts appear when things go quiet?",
+    "What simple thing feels grounding right now?",
+    "What did I enjoy before constant screens?",
+    "What kind of rest do I actually need?",
+    "What am I rushing for no reason?",
+    "What feels okay even if it’s slow?",
+    "What do I notice around me right now?",
+    "What does “enough stimulation” feel like?",
+]
+
+
